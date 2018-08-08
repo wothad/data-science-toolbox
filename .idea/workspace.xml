@@ -4,9 +4,6 @@
     <list default="true" id="f20121fe-433b-4daf-b969-3f389fbd422e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modify/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/modify/images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optimization/geneticAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/optimization/geneticAlgorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pretrained/inception.py" beforeDir="false" afterPath="$PROJECT_DIR$/pretrained/inception.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,8 +62,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="-544">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -200,7 +197,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/deloitte_challenge_alt/.gitignore" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -255,6 +252,14 @@
       <option name="presentableId" value="Default" />
       <updated>1532195980656</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished initial genetic algorithm. added inception cnn. add imageclass.">
+      <created>1533741095899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533741095899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -284,6 +289,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished initial genetic algorithm. added inception cnn. add imageclass." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished initial genetic algorithm. added inception cnn. add imageclass." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -522,8 +531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="-544">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
